@@ -30,6 +30,7 @@
 #services{
     
     flex-wrap: wrap;
+    margin: 44px;
     
 }
 #services .box{
