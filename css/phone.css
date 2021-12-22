@@ -1,7 +1,8 @@
 /*Navigation*/
 #navbar {
     flex-direction: column;
-    width: 250px;
+    width: 375px;
+    height: 125px;
 }
 
 #navbar ul li a{
@@ -11,15 +12,15 @@
 }
 /*Home section*/
 #home{
-    height: 370px;
+    height: 360px;
     width: 200px;
-    padding: 3px 28px;
-    margin-left: 34px;
+    padding: 2px 28px;
+    margin-left: 64px;
 }
 
 #home::before{
     height: 470px;
-    width: 318px;
+    width: 374px;
 }
 
 #home p{
