@@ -14,15 +14,17 @@
     height: 370px;
     width: 200px;
     padding: 3px 28px;
+    margin-left: 34px;
 }
 
 #home::before{
     height: 470px;
-    width: 290px;
+    width: 318px;
 }
 
 #home p{
     font-size: 13px;
+    
 }
 
 /*Services section*/
