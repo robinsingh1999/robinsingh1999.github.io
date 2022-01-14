@@ -5,6 +5,10 @@
     height: 125px;
 }
 
+#navbar::before {
+    width: 93%;
+}
+
 #navbar ul li a{
     font-size: 1rem;
     padding: 0px 7px;
@@ -19,8 +23,8 @@
 }
 
 #home::before{
-    height: 470px;
-    width: 374px;
+    height: 468px;
+    width: 350px;
 }
 
 #home p{
