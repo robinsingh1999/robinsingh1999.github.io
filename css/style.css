@@ -79,7 +79,7 @@
 #home::before{
     content: "";
     position: absolute;
-    background: url('../bg.jpg');
+    background-color: seagreen;
     height: 668px;
     width: 100%;
     top: 0px;
@@ -105,15 +105,16 @@
 #services{
     margin: 34;
     display: flex;
+    background-color: rosybrown;
     
 }
 
 #services .box{
-    border: 2px solid brown;
+    border: 2px rebeccapurple;
     padding: 34px;
     margin: 25px 16px;
     border-radius: 28px;
-    background: rgb(206, 226, 238);
+    background: azure;
     margin-bottom: 20px;
 }
 
@@ -126,6 +127,10 @@
 
 #services .box p{
     font-family: 'Bree Serif', serif;
+}
+
+.services-container{
+    background-color: rosybrown;
 }
 
 /* Client Section */
@@ -168,7 +173,7 @@
     height: 100%;
     z-index:-1;
     opacity: 0.7;
-    background: url('../contact.jpg') no-repeat center center/cover;
+    background-color: cadetblue;
 }
 
 #contact-box{
