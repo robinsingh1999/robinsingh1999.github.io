@@ -79,7 +79,7 @@
 #home::before{
     content: "";
     position: absolute;
-    background-color: seagreen;
+    background-color: black;
     height: 668px;
     width: 100%;
     top: 0px;
